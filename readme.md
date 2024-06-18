@@ -84,7 +84,10 @@ Using these libraries together will double your efficiency in using Element Plus
 - [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities. [🌐](https://vueuse.org/) - [中文](https://vueuse.pages.dev/)
 - [unplugin-vue-macros](https://github.com/vue-macros/vue-macros) - Extend more macros and syntax sugar to Vue. [🌐](https://vue-macros.dev/)
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand.
-- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
+- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
+- [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Click DOM open IDE.
+- [Vue DevTools Next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
+- [Volar](https://github.com/vuejs/language-tools) - Vue IDE syntax hints. - [Download](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 ## Components & Libraries
 
