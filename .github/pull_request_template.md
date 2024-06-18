@@ -2,8 +2,9 @@
 
 > ✏️ Mark the necessary items without changing the structure of the PR template.
 
-- [ ] Pull request template structure not broken
-- [ ] If it contains, Please use the same name
+- [ ] **Read** 📖 Contribution Guidelines / 贡献指南
+- [ ] Pull request template structure **not broken**
+- [ ] If it contains, Please use the **same name**
   - ✔ Element Plus
   - ✖ element-plus
   - ✖ Element-plus
