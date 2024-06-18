@@ -19,6 +19,7 @@
   - [Element UI For Vue2](#element-ui-for-vue2)
   - [Community](#community)
   - [Tutorials](#tutorials)
+  - [Blog Posts](#blog-posts)
 - [Recommended With](#recommended-with)
 - [Components & Libraries](#components--libraries)
 - [Templates](#templates)
@@ -65,6 +66,10 @@ This option only adds exceptional items, and in principle does not add special c
 
 - [Vue 3 Migration Guide](https://v3-migration.vuejs.org/)
 - [Element 2.x to Element Plus Break Change](https://github.com/element-plus/element-plus/discussions/5658)
+
+### Blog Posts
+
+- [Element Plus 源码分析——构建与代码风格](https://juejin.cn/post/7076941611216666654)
 
 ## Recommended With
 
