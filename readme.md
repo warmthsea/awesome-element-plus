@@ -34,6 +34,7 @@
 - [Documentation](https://element-plus.org)
 - [GitHub Repo](https://github.com/element-plus/element-plus)
 - [Release Notes](https://github.com/element-plus/element-plus/releases)
+- [Npm Package](https://www.npmjs.com/package/element-plus)
 
 ### Official Project
 
