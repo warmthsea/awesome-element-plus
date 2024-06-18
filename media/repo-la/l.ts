@@ -1,0 +1,1 @@
+const repoName = 'Awesome Element Plus'
