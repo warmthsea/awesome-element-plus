@@ -2,7 +2,7 @@
 
 > ✏️ Mark the necessary items without changing the structure of the PR template.
 
-- [ ] **Read** 📖 Contribution Guidelines / 贡献指南
+- [ ] **Read** 📖 [Contribution Guidelines / 贡献指南](https://github.com/warmthsea/awesome-element-plus/issues/3)
 - [ ] Pull request template structure **not broken**
 - [ ] If it contains, Please use the **same name**
   - ✔ Element Plus
