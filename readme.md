@@ -17,6 +17,8 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Element UI For Vue2](#element-ui-for-vue2)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
 - [Recommended With](#recommended-with)
 - [Components & Libraries](#components--libraries)
 - [Templates](#templates)
@@ -51,6 +53,18 @@ This option only adds exceptional items, and in principle does not add special c
 
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 🎉 A magical vue admin. [👓](https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fdashboard) ![vue2]
 - [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin. [👓](https://vue-admin-beautiful.com/shop-vite) ![vue2]
+
+### Community
+
+- [SegmentFault](https://segmentfault.com/t/element-plus)
+- [Discord](https://discord.com/invite/gXK9XNzW3X)
+- [Docs Translation](https://crowdin.com/project/element-plus)
+- [Components Core Locale Translation](https://github.com/element-plus/element-plus/tree/dev/packages/locale/lang)
+
+### Tutorials
+
+- [Vue 3 Migration Guide](https://v3-migration.vuejs.org/)
+- [Element 2.x to Element Plus Break Change](https://github.com/element-plus/element-plus/discussions/5658)
 
 ## Recommended With
 
