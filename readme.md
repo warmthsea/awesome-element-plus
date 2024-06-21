@@ -70,6 +70,7 @@ This option only adds exceptional items, and in principle does not add special c
 
 ### Blog Posts
 
+- [Element Plus 正式版发布啦！🎉🎉](https://juejin.cn/post/7061850934095609863?searchId=20240621093618E09C4582BB9D1A5A4CBC)
 - [Element Plus 源码分析——构建与代码风格](https://juejin.cn/post/7076941611216666654)
 
 ## Recommended With
