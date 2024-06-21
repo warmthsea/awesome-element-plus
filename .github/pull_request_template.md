@@ -20,5 +20,4 @@
 
 ### `Other`
 
-- [ ] This project is active.
 - [ ] A commercial product using Element-Plus, provided that guests could reasonably check out how Element-Plus was used (i.e. A headless CMS which uses Element-Plus for the Admin/editor Area and offers a free tier).
