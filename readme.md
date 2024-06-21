@@ -111,6 +111,7 @@ Using these libraries together will double your efficiency in using Element Plus
 - [RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 基于 `SpringBoot`，`Spring Security`，`JWT`，`Vue3 & Vite`、`Element Plus` 的前后端分离权限管理系统
 - [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - `.NetCore`、`.Net6`、`TypeScript`、`Element Plus`+`uniapp` 前后端分离. [👓](http://www.volcore.xyz)
 - [geekai](https://github.com/yangjian102621/geekai) - AI 助手, 采用 `Go` + `Vue3` + `Element Plus` 实现. [👓](https://ai.r9it.com/)
+- [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - `vue-element-admin` vue3 version implementation. [👓](https://vue3.youlai.tech)
 
 ### Starter Template
 
