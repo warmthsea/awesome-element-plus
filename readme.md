@@ -114,7 +114,7 @@ Using these libraries together will double your efficiency in using Element Plus
 - [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - `.NetCore`、`.Net6`、`TypeScript`、`Element Plus`+`uniapp` 前后端分离. [👓](http://www.volcore.xyz)
 - [geekai](https://github.com/yangjian102621/geekai) - AI 助手, 采用 `Go` + `Vue3` + `Element Plus` 实现. [👓](https://ai.r9it.com/)
 - [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - `vue-element-admin` vue3 version implementation. [👓](https://vue3.youlai.tech)
-- [vben-admin-ele](https://github.com/vbenjs/vue-vben-admin/tree/main/apps/web-ele) - A modern vue admin panel built with `Vue3`, `Vite`, `TypeScript`, and `Monorepo`. It's fast! [👓]([https://vue3.youlai.tech](https://ele.vben.pro/))
+- [vben-admin-ele](https://github.com/vbenjs/vue-vben-admin/tree/main/apps/web-ele) - A modern vue admin panel built with `Vue3`, `Vite`, `TypeScript`, and `Monorepo`. It's fast! [👓](https://ele.vben.pro/)
 
 ### Starter Template
 
